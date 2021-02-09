@@ -1,3 +1,6 @@
+# Version 1.0.5 [2021-02-09]
+* Fix Incompatible with pandas related to `reindex_axis`
+
 # Version 1.0.4 [2018-12-13]
 * Update dependency requirements to allower newer versions
 * Test with elasticsearch 2.4.6
